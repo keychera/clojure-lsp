@@ -12,6 +12,12 @@
 
 A [Language Server](https://microsoft.github.io/language-server-protocol/) for Clojure(script). Taking a Cursive-like approach of statically analyzing code.
 
+# about this fork
+
+just to make lsp treat .jank, .lpy, and .cljr as clj files
+
+ref: https://github.com/clojure-lsp/clojure-lsp/commit/bd4f518e08cde167432396cee2de4d69286b5978
+
 <hr>
 <p align="center">
   <a href="https://clojure-lsp.io"><strong>homepage</strong></a> •
