@@ -25,23 +25,23 @@
     {
       "lib": "io.github.clojure/tools.build",
       "url": "https://github.com/clojure/tools.build.git",
-      "rev": "c6c670a4ea82709d7f88aa3a9e35e0be76342417",
-      "tag": "v0.10.11",
-      "git-dir": "https/github.com/clojure/tools.build",
-      "hash": "sha256-pKEq/jJVD8JSSPFfxg5eJZmc+22T/60TtzEFwobJ7BU=",
-      "ancestor?": {
-        "2a21b7acb544d3d69de9b674adf99769b8687403": false
-      }
-    },
-    {
-      "lib": "io.github.clojure/tools.build",
-      "url": "https://github.com/clojure/tools.build.git",
       "rev": "2a21b7acb544d3d69de9b674adf99769b8687403",
       "tag": "v0.10.5",
       "git-dir": "https/github.com/clojure/tools.build",
       "hash": "sha256-4dsxlZyV57ivvS3ivUQl+xy/nWrLM0Dv6zMeYpF1rTQ=",
       "ancestor?": {
         "c6c670a4ea82709d7f88aa3a9e35e0be76342417": true
+      }
+    },
+    {
+      "lib": "io.github.clojure/tools.build",
+      "url": "https://github.com/clojure/tools.build.git",
+      "rev": "c6c670a4ea82709d7f88aa3a9e35e0be76342417",
+      "tag": "v0.10.11",
+      "git-dir": "https/github.com/clojure/tools.build",
+      "hash": "sha256-pKEq/jJVD8JSSPFfxg5eJZmc+22T/60TtzEFwobJ7BU=",
+      "ancestor?": {
+        "2a21b7acb544d3d69de9b674adf99769b8687403": false
       }
     },
     {
